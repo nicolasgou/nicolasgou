@@ -1,22 +1,31 @@
-- 👋 Hi, I’m @nicolasgou (Nicolas Goulart Silva), Electrical Engineer with solid experience in computing and systems engineering. Specialization in systems architecture (design of products, platforms and services) and Artificial Intelligence systems.
+# Nicolas Goulart Silva - Electrical and Computing Engineer, and AI Enthusiast 👨‍💻
 
-- I'm currently working as Associate Researcher by FAPESP - Foundation for Research Support of the State of São Paulo (Brazil)- responsible for coordinating and carrying out technical-scientific research, developing solutions and technologies for process and manufacturing industries, modeling predictive algorithms for industrial software solutions and industrial process control systems - IA Machine Learning.
+Welcome to my GitHub profile! I'm Nicolas Goulart Silva, an Electrical and Computing Engineer passionate about systems engineering, and artificial intelligence. Currently, I'm serving as an Associate Researcher at FAPESP, where I lead technical-scientific research and develop innovative solutions for process and manufacturing industries.
 
-- Technical coordination on topics related to Industry 4.0 and its subsets, such as: Industrial Digitization Solutions, Platforms based on Cloud Computing, Automation Systems, IT and TA convergence, Industrial IoT, IT industrial security and Artificial Intelligence systems.
+## 🔧 Technical Expertise
 
-- Professional experience in the field of control systems engineering, working with industrial process automation with a focus on SCADA and PLC software.
+- **Systems Architecture:** Specialized in designing products, platforms, and services.
+- **Artificial Intelligence:** Expertise in developing predictive algorithms for industrial software solutions and process control systems using machine learning.
+- **Industry 4.0:** Technical coordination in areas such as Industrial Digitization, Cloud Computing Platforms, Automation Systems, IT/TA convergence, Industrial IoT, IT industrial security, and more.
 
-- Experience with Power Systems providing solutions in software engineering focused on energy management systems: Supervision and Control, Generation, Transmission and Distribution (SCADA / EMS / DMS). Participation in several Brazil/LATAM projects in close collaboration with customers.
+
+## 🌍 Professional Background
+
+- With a strong foundation in control systems engineering, I've focused on industrial process automation, specializing in SCADA and PLC software. 
+- **ESP32 Embedded System:** Currently working with ESP32 predictive maintenance solutions for process and manufacturing industries.
+- My experience extends to Power Systems, contributing to energy management solutions in various projects across Brazil and LATAM.
+
+## 🚀 What I'm Currently Up To
+
+- **Learning Journey:** Currently diving into C# Programming, Machine Learning, R Language, Optimization Algorithms, and GeneticSharp.
+- **Collaboration:** I'm open to collaborating on innovative projects that align with my interests and expertise.
 
 
+## 📬 Let's Connect
 
-- 👀 I’m interested in 
+Feel free to reach out to me at nicolas.gousil@outlook.com for any inquiries, collaborations, or just to say hello! I'm always excited to connect with fellow enthusiasts and professionals.
 
-- 🌱 I’m currently learning C# Proagramming, Machine Learning, R Language, Optimization Algorithms, GeneticSharp
-
-- 💞️ I’m looking to collaborate on Projects of inovation
-
-- 📫 How to reach me: nicolas.gousil@outlook.com
+Thank you for visiting my GitHub profile! 🌟
 
 <!---
 nicolasgou/nicolasgou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
