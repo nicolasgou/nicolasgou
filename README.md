@@ -1,4 +1,4 @@
-# Nicolas Goulart Silva - Electrical and Computing Engineer, and AI Enthusiast 👨‍💻
+# Nicolas Goulart Silva - Electrical and Computing Engineer, Systems Engineering and AI Enthusiast 👨‍💻
 
 Welcome to my GitHub profile! I'm Nicolas Goulart Silva, an Electrical and Computing Engineer passionate about systems engineering, and artificial intelligence. Currently, I'm serving as an Associate Researcher at FAPESP, where I lead technical-scientific research and develop innovative solutions for process and manufacturing industries.
 
